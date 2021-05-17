@@ -1,15 +1,16 @@
 
 Hello I will be showing you this guide.
                                                                       
-NOTE: You have to require WinRAR+ otherwise it will not work perfectly. I will link it.
+NOTE: You have to require WinRAR+ otherwise it will not work perfectly. Also please ue GameBanana, they have some mods so go to it, I will link it.
 https://www.win-rar.com/start.html?&L=0
+https://gamebanana.com/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```MODS```
 
 - If you installed WinRAR+, open the folder you downloaded, few of the mods are installed inside of the folders game.
 
 
-- Open up Friday Night Funkin, do not worry with these games that you can keep them.
+- Open up Friday Night Funkin, do not worry with these games that you can keep them as a mod.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -34,5 +35,5 @@ https://ninja-muffin24.itch.io/funkin
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-If you have a bit issues with it, file an issue.
+If you have a bit issues with it, file an issue, so I will read them.
 

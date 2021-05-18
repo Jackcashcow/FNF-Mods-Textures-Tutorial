@@ -9,10 +9,21 @@ https://gamebanana.com/
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ```MODS```
 
-- If you installed WinRAR+, open the folder you downloaded, few of the mods are installed inside of the folders game.
+Keep in note that you need to use WinRar to open FNF but mods. If you installed it, then make sure read the following instructions.
 
+- Download the mod you wanted (Wait until it's been an hour/minutes)
 
-- Open up Friday Night Funkin, do not worry with these games that you can keep them as a mod.
+- Once it's been an hour/minutes, open up **Folders**
+
+- Click **Downloads**
+
+- Drag the mods folder to **Desktop**
+
+- Open up the mods in WinRAR (You do not need to extract it)
+
+- Open up the folder
+
+- And you can open the game and it will be good to go
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -26,13 +37,15 @@ https://ninja-muffin24.itch.io/funkin
 
 - Copy and paste Friday Night Funkin folder that you have downloaded. (Completely up to you)
 
+- Open up **Friday Night Funkin** folder
+
 - Head to **assets**
 
 - Head to **images**
 
-- Open up the skins folder that you've downloaded.
+- Open up the skins folder that you've downloaded
 
-- Drag all of these textures (Images), and click **Replace**
+- Drag all of these textures (Images), and **Replace** the textures
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 

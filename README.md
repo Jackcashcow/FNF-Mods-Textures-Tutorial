@@ -19,7 +19,7 @@ Keep in note that you need to use WinRar to open FNF but mods. If you installed 
 
 - Drag the mods folder to **Desktop**
 
-- Open up the mods in WinRAR (You do not need to extract it)
+- Open up the mods in WinRAR (You do not need to extract it) | OPTIONAL: Right click on the Folder you've downloaded and extract the folder (If that didn't work, press CTRL + Z to undo it.)
 
 - Open up the folder
 
